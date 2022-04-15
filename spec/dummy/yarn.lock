@@ -6349,7 +6349,7 @@ react-is@^16.7.0:
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
 "react-on-rails@file:.yalc/react-on-rails":
-  version "12.6.0"
+  version "13.0.2"
   dependencies:
     "@babel/runtime-corejs3" "^7.12.5"
     concurrently "^5.1.0"
@@ -6983,20 +6983,10 @@ sha.js@^2.4.0, sha.js@^2.4.8:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
 
-"shakapacker @^6.1.1":
-  name shakapacker
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/shakapacker/-/shakapacker-6.1.1.tgz#c699a0d1012f6afdc0d0b77ba06d055877bbcca0"
-  integrity sha512-C6LNGfgxfK/CRyN7Cpi0TmRgqTQ0O7Ua/n1g/dp7IIjPIKuf/1khAEF5u6lG0A92eFSlLWxvF3fjyjBw/oLqVw==
-  dependencies:
-    glob "^7.2.0"
-    js-yaml "^4.1.0"
-    path-complete-extname "^1.0.0"
-
-shakapacker@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/shakapacker/-/shakapacker-6.0.2.tgz#338cf65267dab94fb5f1f5432f192b745bc55164"
-  integrity sha512-gCNBjwcy/+WA4At1YP+pKgNzG8UsIDtLZiJ+Ezipm6quONfXyFS8C4yj/cMU7A1mt2ejosYO7pwRZG1Z0t9EfA==
+shakapacker@^6.2.1:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/shakapacker/-/shakapacker-6.2.1.tgz#b59765ddf891f6f1e4e55a7816ef3925c6039ca3"
+  integrity sha512-Q8PSOVsaUlMCQiu9hw3vc6X2THMocxn/0cnmmHwkHw1V/RoxQhhh9DWEX2pmvUP+QlyY33q/UwuU6XbVf96AyA==
   dependencies:
     glob "^7.2.0"
     js-yaml "^4.1.0"
